@@ -1,0 +1,15 @@
+customization:
+  distribution_code_name: Weasel
+  distribution_version: 0.17.4
+  generator: "Rime::SwitcherSettings"
+  modified_time: "Wed Feb  4 10:02:09 2026"
+  rime_version: 1.13.1
+patch:
+  key_binder:
+    bindings: [{accept: "Control+h", send: Up, when: composing}, {accept: "Control+l", send: Down, when: composing}, {accept: "Control+k", send: Page_Up, when: has_menu}, {accept: "Control+j", send: Page_Down, when: has_menu}, {accept: "Shift+Tab", send: Up, when: composing}, {accept: Tab, send: Down, when: composing}]
+  "menu/page_size": 7
+  schema_list:
+    - {schema: luna_pinyin}
+    - {schema: pali}
+  "switcher/hotkeys":
+    - "Shift+space"
