@@ -1,6 +1,6 @@
 ### Introduction 
 
-Existing Pali input methods, whether on Windows or Linux, require holding down the Ctrl or Alt key when typing Latin characters. They are inconvenient to use and difficult to remember so many shortcuts. To solve this problem, I have created a Pali input method based on Rime. For example, when you press the "n" key, it automatically shows "ṅ/ṇ/ñ" for you to choose from, making the input process easy.
+Existing Pali input methods, whether on Windows , Linux or Mac, require holding down the Ctrl or Alt key when typing Latin characters. They are inconvenient to use and difficult to remember so many shortcuts. To solve this problem, I have created a Pali input method based on Rime. For example, when you press the "n" key, it automatically shows "ṅ/ṇ/ñ" for you to choose from, making the input process easy.
 
 
 
